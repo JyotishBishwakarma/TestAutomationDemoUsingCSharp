@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Logicabeans\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Logicabeans\\.nuget\\packages"
+    ]
+  }
+}
